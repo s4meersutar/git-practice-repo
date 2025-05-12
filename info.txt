@@ -1,1 +1,1 @@
-My name is Sameer. I am learning Git.
+My name is Sameer. I am learning Git. This is my first time using GitHub btw.
